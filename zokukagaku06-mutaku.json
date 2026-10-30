@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/mutaku",
  "yomi": "むたくわかしゅうしょう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "江戸後期",
+  "author": "桃沢夢宅（1738〜1810）",
+  "desc": "信濃伊那の人で、澄月に学びその垂雲軒を継いだ桃沢夢宅の歌の抄。享和元年に国へ退き、文化7年に没したと序にいう。香川景樹との贈答も見える。"
+ },
  "editions": [
   {
    "pid": "993384",
